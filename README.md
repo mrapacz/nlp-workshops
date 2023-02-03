@@ -1,3 +1,4 @@
 # winter-school
 
-⭐️ tbd - will update this after the workshops 🙏
+Third day of nlp workshops led as part of a winter NLP school // Feb 2023
+    
